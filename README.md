@@ -6,3 +6,6 @@ En este curso vemos de todo:
 - Todos los comandos
 - El flujo de trabajo en Github
 - El verdadero amor por las buenas practicas
+- Creado por el mejor 115
+- incluye ejepmlos en linux, windows y mac
+- Diseñado para todos
